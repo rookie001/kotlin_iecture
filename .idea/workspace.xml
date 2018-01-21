@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed2dda25-a140-4274-b3b9-5752d9c2b52c" name="Default" comment="" />
+    <list default="true" id="ed2dda25-a140-4274-b3b9-5752d9c2b52c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/META-INF/kotlin_iecture.kotlin_module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Apple.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Child.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Child2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Fruit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/MyChild.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/MyChild2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/MyChild3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/MyClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/MyParent.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/MyParent2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/MyParent3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Orange.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Parent.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Parent2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Person.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Student2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Student3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test10Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test11Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test12Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test14Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test15Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test17Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test18Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test1Kt$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test1Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test2Kt$main$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test2Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test3Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test4Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test5Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test6Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test7Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test8Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin/demo/Test9Kt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/kotlin_iecture/com/stephen/kotlin2/CaculationKt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kotlin_iecture.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Caculation.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test1.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test10.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test11.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test12.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test13.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test14.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test15.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test16.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test17.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test18.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test2.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test3.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test4.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test5.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test6.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test7.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test8.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test9.kt" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +75,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Test14.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test14.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-516">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test13.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test13.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,6 +105,9 @@
         <option value="Kotlin File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -120,6 +208,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages ProjectPane="true" />
@@ -679,12 +768,12 @@
       <workItem from="1512298925202" duration="140000" />
       <workItem from="1514257110681" duration="654000" />
       <workItem from="1516473069020" duration="40000" />
-      <workItem from="1516473202972" duration="3051000" />
+      <workItem from="1516473202972" duration="3252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46843000" />
+    <option name="totallyTimeSpent" value="47044000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -697,6 +786,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="975" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -707,11 +797,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22763307" sideWeight="0.502442" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3125" sideWeight="0.497558" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21184371" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21184371" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -982,22 +1072,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test14.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-771">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test13.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test12.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1050,6 +1124,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test13.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stephen/kotlin/demo/Test14.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-516">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
